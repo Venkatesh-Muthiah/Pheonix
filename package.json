@@ -1,0 +1,13 @@
+{
+  "name": "qa-nulifewellness",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://venkatesh:glpat-eRypUQpBhV8dNpG9vtqg@git.pheonixsolutions.com/pheonix-software/qa-nulifewellness.git",
+  "author": "venkateshPS-57 <venkatesh@pheonixsolutions.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.7"
+  },
+  "scripts": {}
+}
